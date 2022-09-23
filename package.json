@@ -1,0 +1,23 @@
+{
+  "name": "trailhead",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbrownt/trailhead.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrbrownt/trailhead/issues"
+  },
+  "homepage": "https://github.com/mrbrownt/trailhead#readme",
+  "dependencies": {
+    "sfdx-cli": "^7.169.1"
+  }
+}
