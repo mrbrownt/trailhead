@@ -19,5 +19,6 @@
   "homepage": "https://github.com/mrbrownt/trailhead#readme",
   "dependencies": {
     "sfdx-cli": "^7.169.1"
-  }
+  },
+  "workspaces": ["VSCodeQuickstart"]
 }
