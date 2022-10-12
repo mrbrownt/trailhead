@@ -20,5 +20,5 @@
   "dependencies": {
     "sfdx-cli": "^7.169.1"
   },
-  "workspaces": ["VSCodeQuickstart"]
+  "workspaces": ["VSCodeQuickstart", "PackageXMLProject"]
 }
